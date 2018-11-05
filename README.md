@@ -23,3 +23,6 @@ Please note that this safety case does not contain an entire functional safety a
 - **Lane Keeping Assistance** - this function helps the driver to keep the vehicle near the centerline of the ego lane, by applying additional torque to the steering wheel, in addition to the torque exerted by the driver
 
 For more details on these two functions, as well as the safety related measures involved in their design, please see the attached PDF documents. 
+
+### More information
+For even more information on the project, please check the original Udacity project [repository](https://github.com/udacity/CarND-Functional-Safety-Project)
